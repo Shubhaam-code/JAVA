@@ -40,7 +40,7 @@ class TwoDarray{
 
 }
 
-class TwoDimarrayAddition{
+class Addition{
     public static void main(String arg []){
     TwoDarray aa= new TwoDarray();
     aa.getdata(); 

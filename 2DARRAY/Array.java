@@ -24,7 +24,7 @@ class TwoDarray{
 
 }
 
-class TwoDimarray{
+class Array{
     public static void main(String arg []){
     TwoDarray a= new TwoDarray();
     a.getdata();
