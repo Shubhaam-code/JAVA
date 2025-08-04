@@ -21,7 +21,7 @@ class palidrone1{
             j--;
         }
         if(flag==0){
-            System.out.println("PALIDRONE :");
+            System.out.println("PALIDRONE ");
 
         }
     }
